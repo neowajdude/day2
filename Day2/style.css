@@ -1,0 +1,20 @@
+div{
+	text-align:left;
+}
+h1{
+	color:white;
+}
+.first_div{
+	padding-right:15px;
+	margin-right:10px;
+	border:1px solid transparent;
+	border-radius:15px;
+}
+#second_div{
+	padding-right:15px;
+	border:1px solid transparent;
+	border-radius:15px;
+}
+#second_div h1{
+	color:pink;
+}

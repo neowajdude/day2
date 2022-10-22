@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.header{
+    height: 80px;
+    width: 1200px;
+    background-color: black;
+    margin: 0px auto;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+.logo img{
+    height: 80px;
+    margin-left: 20px;
+    float: left;
+}
+.menu{
+    float: right;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    margin: 0px 15px;
+}
